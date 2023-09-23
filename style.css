@@ -8,3 +8,8 @@ body {
     font-family: Tahoma, sans-serif;
     background-color: darkkhaki;
 }
+
+#recipepic {
+    width: 310px;
+    height: auto;
+}
